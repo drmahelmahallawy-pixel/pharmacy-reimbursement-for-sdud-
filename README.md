@@ -6,7 +6,7 @@ Welcome to the **Medicaid Reimbursement Analytics** project! This repository con
 ## 🎥 Dashboard Video Walkthrough
 *Get a quick tour of the interactive features, page navigation, and state-level analysis.*
 
-<video src="dashboard.mov" controls="controls" style="max-width: 100%;">
+<video src="https://github.com/drmahelmahallawy-pixel/pharmacy-reimbursement-for-sdud-/raw/main/dashboard.mov" controls="controls" style="max-width: 100%;">
 </video>
 
 *(Note: If the video does not play automatically, please download the `dashboard.mov` file attached in this repository to watch it in full resolution).*
